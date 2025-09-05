@@ -7,3 +7,20 @@ langchain-pinecone==0.2.8
 langchain-openai==0.3.24
 langchain-community==0.3.26
 -e .
+# sentence-transformers==2.5.1
+# transformers==4.37.2
+# pyproject.toml.txt
+
+langchain
+langchain-groq
+faiss-cpu
+tiktoken
+langchain-community
+langchain-openai
+chromadb
+sentence-transformers
+pypdf
+python-dotenv
+langchain-pinecone
+flask
+langchain_groq
